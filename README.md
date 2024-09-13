@@ -1,5 +1,5 @@
 # Hi, I’m @GabrielPauloASilva &#128512;
-👀 I’m interested in WEB3 and currently learning 🌱 onchain development with Solidity and Rust...
+👀 I’m interested in WEB3 and 🌱 currently learning  onchain development with Solidity and Rust...
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
